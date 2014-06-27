@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EB7AE5A3-5B51-456D-B6CC-77569FFEAD29</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hijacking</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>891677FC-44C6-4BA4-9F86-A05F5F26BACF</key>
+		<string>https://github.com/Dormar/Testing.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hijacking/Hijacking.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>891677FC-44C6-4BA4-9F86-A05F5F26BACF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Dormar/Testing.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>891677FC-44C6-4BA4-9F86-A05F5F26BACF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>891677FC-44C6-4BA4-9F86-A05F5F26BACF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Testing</string>
+		</dict>
+	</array>
+</dict>
+</plist>
