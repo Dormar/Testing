@@ -14,7 +14,6 @@
 {
     // Override point for customization after application launch.
     int m = 1;
-    double cMake = 2.4;
     return YES;
 }
 							
