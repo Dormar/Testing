@@ -14,6 +14,7 @@
 {
     // Override point for customization after application launch.
     int m = 1;
+    BOOL yes = NO;
     return YES;
 }
 							
